@@ -67,4 +67,5 @@ create table order_items(
 
 =индекс($N:$N;поискпоз(E2;$O:$O;0))
 =I1&" "&J1&" "&K1
+Binary paths /usr/bin
 # Chudo_Yudo
